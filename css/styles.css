@@ -1,0 +1,165 @@
+#title {
+  background-color: #ff4c68;
+  height: 700px;
+  overflow: hidden;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  line-height: 1.4;
+  padding-bottom: 3%;
+}
+
+.h2-dog-plan {
+  color: black;
+  padding-bottom: 2%;
+  line-height: normal;
+  font-size: 3rem;
+}
+
+.price-model {
+  color: black;
+  padding-bottom: 0%;
+  line-height: normal;
+}
+
+.card-text {
+  color: gray;
+}
+
+#cta {
+  text-align: center;
+  background-color: #ff4c68;
+  padding: 7% 14% 8% 14%;
+}
+
+.footer-text {
+  font-size: 2.9rem;
+  color: white;
+  margin-bottom: 5%;
+}
+
+.btn-footer {
+  margin-right: 3%;
+  padding: 10px 13px 10px 13px;
+}
+
+.card-title {
+  font-size: 3rem;
+}
+
+.sign-up-button {
+  width: 100%;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.feature-col {
+  padding: 0% 3%;
+}
+
+.plan-title {
+  text-align: center;
+  padding-top: 5%;
+}
+
+#features {
+  padding: 10% 10% 12% 10%;
+  text-align: center;
+}
+
+.press-img {
+  width: 20%;
+  padding: 0% 2% 6% 2%;
+}
+
+#section-2 {
+  text-align: center;
+  background-color: #ff4c68;
+}
+
+.card-section {
+  text-align: center;
+  padding: 0% 7% 0% 7%;
+}
+
+.col-plan {
+  padding: 4% 2% 7% 2%;
+}
+
+#testimonials {
+  padding: 12% 19% 8% 19%;
+}
+
+.dog-img {
+  width: 10%;
+  border-radius: 50%;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 50%;
+}
+
+.feature-p {
+  color: #8f8f8f;
+}
+
+.fa-5x {
+  color: #ef8172;
+  margin-bottom: 13px;
+}
+
+.fa-5x:hover {
+  color: #ff4c68;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.nav-item {
+  font-size: 1.25rem;
+  padding: 0 18px;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-size: 2.3rem;
+}
+
+.rotated-img {
+  width: 60%;
+  transform: rotate(25deg);
+}
+
+.download-button {
+  margin-left: 5px;
+  margin-top: 7px;
+}
+
+@media (max-width: 990px) {
+  #title {
+    text-align: center;
+    overflow: auto;
+  }
+
+  .rotated-img {
+    position: static;
+    transform: rotate(0);
+    padding-top: 20px;
+  }
+}
